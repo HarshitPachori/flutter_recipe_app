@@ -31,6 +31,11 @@ Weather Screen.
 
  4. Try it out.
 
+<p float= "left" >
 
-
-<img src = "screenshot/1637937625132.jpg" width ="200">             <img src = "screenshot/1637937625125.jpg" width ="200">           <img src = "screenshot/1637937625115.jpg" width ="200">
+<img src = "screenshot/1637937625132.jpg" width ="200">
+&nbsp 
+<img src = "screenshot/1637937625125.jpg" width ="200">
+&nbsp 
+<img src = "screenshot/1637937625115.jpg" width ="200">
+</p>
